@@ -13,7 +13,7 @@ const SignUpPage = () => {
     navigate("/login");
   };
   return (
-    <div className="relative w-screen h-80 overflow-hidden font-sans">
+    <div className="relative w-screen h-screen overflow-hidden font-sans">
       {/* Fullscreen Particles */}
       <div className="absolute inset-0 z-0">
         <Particles
